@@ -20,8 +20,8 @@
     "email": "ranm@codeoasis.com"
   },
   "dependencies": {
-    "newrelic": "~1.2.0",
-    "winston": "~0.7.2"
+    "newrelic": "~1.5.4",
+    "winston": "~0.7.3"
   },
   "devDependencies": {
     "mocha": "~1.9.0",
